@@ -1,0 +1,24 @@
+{
+  "name": "@bashrc/bigdecimal",
+  "version": "1.0.0",
+  "description": "BigDecimal provides arbitrary-precision signed decimal numbers.",
+  "main": "bigdecimal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoisjeeva/bigdecimal.git"
+  },
+  "keywords": [
+    "bigdecimal",
+    "js",
+    "math"
+  ],
+  "author": "Jeeva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whoisjeeva/bigdecimal/issues"
+  },
+  "homepage": "https://github.com/whoisjeeva/bigdecimal#readme"
+}
