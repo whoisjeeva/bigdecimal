@@ -14,7 +14,7 @@ $ npm i --save @bashrc/bigdecimal
 **Import**
 
 ```js
-import BigDecimal from "@bashrc/bigdecimal"
+const BigDecimal = require("@bashrc/bigdecimal")
 ```
 
 BigDecimal provides basic arithmetic operation like, plus, minus, multiply, and divide
